@@ -1,4 +1,4 @@
-# CalculaPrecoDeProdutos
+# Lista produtos
 
 Este programa em Java cria uma lista de produtos e permite ao usuário inserir informações sobre esses produtos.
 Os produtos podem ser de três tipos: comuns (c), usados (u) ou importados (i). 
